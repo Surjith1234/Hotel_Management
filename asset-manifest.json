@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/github.io/Hotel_Management/static/css/main.ab8c7f57.css",
+    "main.js": "/github.io/Hotel_Management/static/js/main.c9374ab9.js",
+    "static/media/property4.jpg": "/github.io/Hotel_Management/static/media/property4.2df59e1ce94990e89755.jpg",
+    "static/media/property2.jpg": "/github.io/Hotel_Management/static/media/property2.ea41df955385b17137f7.jpg",
+    "static/media/property5.jpg": "/github.io/Hotel_Management/static/media/property5.c186610df72b06a1c25a.jpg",
+    "index.html": "/github.io/Hotel_Management/index.html",
+    "main.ab8c7f57.css.map": "/github.io/Hotel_Management/static/css/main.ab8c7f57.css.map",
+    "main.c9374ab9.js.map": "/github.io/Hotel_Management/static/js/main.c9374ab9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab8c7f57.css",
+    "static/js/main.c9374ab9.js"
+  ]
+}
